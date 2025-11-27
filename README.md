@@ -1,16 +1,25 @@
-## Hi there 👋
+# Анастасия 
 
-<!--
-**nastuk/nastuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Лингвист-аналитик, Data Scientist**
 
-Here are some ideas to get you started:
+## Проекты
+- **[Портфолио Яндекс Практикум](ссылка)**  
+- **[Диссертация на соискание степени кандидата филологических наук](ссылка)**
+- **[Другие проекты на Python](ссылка)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Навыки
+- Программирование: Python, R, SQL
+- Анализ данных: Pandas, NumPy, SciPy, StatsModels, NLTK
+- Визуализация: Matplotlib, Seaborn, PIL
+- Машинное обучение: Scikit-learn, TensorFlow, Keras, PyTorch, CatBoost, LightGBM
+- Базы данных: PostgreSQL
+
+## 🌱 Образование
+- Курс "Специалист по Data Science", Яндекс Практикум
+- Курс "Азбука цифры. Профессия Python-программист", Основание
+- Программа ДПО "Компьютерная лингвистика", НИУ Высшая школа экономики
+  
+## 📫 Контакты
+Почта: a.y.vishnyakova@yandex.ru  
+[VK](https://vk.com/na_stuk)  
+[Telegram](https://t.me/Na_stuk)  
