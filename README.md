@@ -1,4 +1,4 @@
-# Анастасия 
+# Анастасия Вишнякова
 
 **Лингвист-аналитик, Data Scientist**
 
@@ -9,9 +9,9 @@
 
 ## Навыки
 - **Программирование:** Python, R, SQL
-- **Анализ данных:** Pandas, NumPy, SciPy, StatsModels, NLTK
+- **Анализ данных:** Pandas, NumPy, SciPy, StatsModels, 
 - **Визуализация:** Matplotlib, Seaborn, PIL
-- **Машинное обучение:** Scikit-learn, TensorFlow, Keras, PyTorch, CatBoost, LightGBM
+- **Машинное обучение:** Scikit-learn, TensorFlow, Keras, PyTorch, CatBoost, LightGBM, NLTK, BERT
 - **Базы данных:** PostgreSQL
 
 ## 🌱 Образование
